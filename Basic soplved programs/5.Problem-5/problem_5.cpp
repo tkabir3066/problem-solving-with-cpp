@@ -17,3 +17,11 @@ int main()
     cout << "Size of  char = " << sizeof(a) << " byte";
     return 0;
 }
+
+/*
+Output:
+Size of  int = 4 bytes
+Size of  float = 4 bytes
+Size of  double = 8 bytes
+Size of  char = 1 byte
+ */
